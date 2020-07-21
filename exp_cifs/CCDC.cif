@@ -1,0 +1,51 @@
+_symmetry_cell_setting           Tetragonal
+_symmetry_space_group_name_H-M   'P 4/m m m'
+_symmetry_space_group_name_Hall  '-P 4 2'
+
+loop_
+_symmetry_equiv_pos_as_xyz
+x,y,z
+-y,x,z
+-x,-y,z
+y,-x,z
+-x,y,z
+y,x,z
+x,-y,z
+-y,-x,z
+-x,-y,-z
+y,-x,-z
+x,y,-z
+-y,x,-z
+x,-y,-z
+-y,-x,-z
+-x,y,-z
+y,x,-z
+
+_cell_length_a                   7.01484
+_cell_length_b                   7.01484
+_cell_length_c                   7.56557
+_cell_angle_alpha                90.00000
+_cell_angle_beta                 90.00000
+_cell_angle_gamma                90.00000
+_cell_volume                     372.284
+_cell_formula_units_Z            1
+_cell_measurement_temperature    298
+
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+_atom_site_adp_type # Not in version 2.0.1
+_atom_site_type_symbol
+N1 0.50000 0.20916 0.50000 0.05699 1.00000 Uiso N
+C1 0.50000 0.09242 0.3611818 0.05699 1.00000 Uiso C
+H1 0.50000 0.16000 0.26000 0.08612 1.00000 Uiso H
+Ni 0.50000 0.50000 0.50000 0.03800 1.00000 Uiso Ni
+F1 0.50000 0.50000 0.208117 0.04433 1.00000 Uiso F
+F2 0.33743 0.33743 0.00000 0.04433 1.00000 Uiso F
+Si 0.50000 0.50000 0.00000 0.03166 1.00000 Uiso Si
+
+
